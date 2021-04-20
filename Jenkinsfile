@@ -1,5 +1,5 @@
 pipeline {
-    master
+    agent any
     stages {
         stage('---clean---') {
             steps {
