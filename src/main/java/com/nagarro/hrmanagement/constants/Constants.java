@@ -37,6 +37,7 @@ public class Constants {
 	public static final String CONTENT_DISPOSION="Content-Disposition";
 	public static final String ATTACHMENT="attachment; filename=employeesInfo.csv";
 	public static final String CONTENT_TYPE="text/csv";
+	public static final String CONTENT_TYPE1="text/csv";
 
 
 }
